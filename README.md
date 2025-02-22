@@ -1,0 +1,1 @@
+Textový analyzátor
